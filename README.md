@@ -1,12 +1,16 @@
 # 📊 Thinking in Data
 
+> **_NOTE:_**  It is **strongly recommended** that you use the [Insiders Edition of Visual Studio Code](https://code.visualstudio.com/insiders/), which is updated daily, and includes the latest and most up-to-date features for the Python extension, Live Share, Codespaces, native notebooks, and more.
+
+[![You are urged to use caution when inflating your metrics, dear reader.](https://imgs.xkcd.com/comics/box_plot.png)](https://xkcd.com/1798)
+
 _Thinking in Data_ is a curated set of VS Code extensions for data analysis, visualization, and collaboration, inspired by the brilliant [_Thinking in Code_](https://github.com/lostintangent/thinking-in-code) extension pack. If you are a data scientist or machine learning engineer who is familiar with RStudio, MATLAB, Spyder, JupyterLab, or other scientific IDEs, but have felt overwhelmed by the Visual Studio extension marketplace: this is a great place to start.
 
 🖖 **Contributions are welcome:** if you find that a tool that enhances your understanding, please feel free to submit a pull request to add it!
 
 ***
 
-## Python, R, and Jupyter Support
+## Language and Notebook Support
 | Included extension | How can it help? |
 |-|-|
 | 🐍 [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python linting, debugging, IntelliSense, Jupyter notebooks, and more.<br /><br /><a href="https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2019/10/variable_explorer.gif"><img width="400px" src="https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2019/10/variable_explorer.gif" /></a> | <ol><li> Rich Python language support, including IntelliSense, debugging, linting, and more. </li><li> Support for Jupyter notebooks via the included [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).<li> Third thing.</li><li> Fourth thing.</li><li> Fifth thing.</li></ol> |
