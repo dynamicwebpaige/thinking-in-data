@@ -1,13 +1,13 @@
 {
-    "name": "thinking-in-code",
-    "displayName": "Thinking in Code",
-    "publisher": "lostintangent",
-    "description": "Collection of extensions to enable a richer environment for thinking and learning about code.",
+    "name": "thinking-in-data",
+    "displayName": "Thinking in Data",
+    "publisher": "dynamicwebpaige",
+    "description": "A VS Code extension pack to help users visualize, understand, and interact with data.",
     "icon": "icon.png",
-    "version": "0.0.7",
+    "version": "0.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lostintangent/thinking-in-code"      
+        "url": "https://github.com/dynamicwebpaige/thinking-in-data"      
     },
     "engines": {
         "vscode": "^1.51.0"
@@ -17,9 +17,12 @@
     ],
     "keywords": [
         "learning",
-        "gist",
+        "data",
         "playground",
-        "notes"
+        "notes",
+        "data science",
+        "machine learning",
+        "exploration"
     ],
     "extensionPack": [
         "vsls-contrib.codetour",
