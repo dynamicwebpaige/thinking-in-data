@@ -29,7 +29,16 @@
         "vsls-contrib.gistfs",
         "vsls-contrib.gitdoc",
         "codespaces-contrib.codeswing",
-        "hediet.vscode-drawio"
+        "hediet.vscode-drawio",
+        "ms-python.python",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "Ikuyadeu.r",
+        "mtxr.sqltools",
+        "lostintangent.vsls-whiteboard",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "MS-vsliveshare.vsliveshare-pack",
+        "hediet.debug-visualizer"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"
