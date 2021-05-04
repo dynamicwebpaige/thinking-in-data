@@ -38,7 +38,10 @@
         "GitHub.vscode-pull-request-github",
         "eamodio.gitlens",
         "MS-vsliveshare.vsliveshare-pack",
-        "hediet.debug-visualizer"
+        "hediet.debug-visualizer",
+        "foam.foam-vscode",
+        "RandomFractalsInc.vscode-data-preview",
+        "eamodio.gitlens"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"
