@@ -4,7 +4,7 @@
     "publisher": "dynamicwebpaige",
     "description": "A VS Code extension pack to help users visualize, understand, and interact with data.",
     "icon": "icon.png",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/dynamicwebpaige/thinking-in-data"      
@@ -40,8 +40,7 @@
         "MS-vsliveshare.vsliveshare-pack",
         "hediet.debug-visualizer",
         "foam.foam-vscode",
-        "RandomFractalsInc.vscode-data-preview",
-        "eamodio.gitlens"
+        "RandomFractalsInc.vscode-data-preview"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"
