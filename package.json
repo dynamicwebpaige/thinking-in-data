@@ -41,7 +41,8 @@
         "hediet.debug-visualizer",
         "foam.foam-vscode",
         "RandomFractalsInc.vscode-data-preview",
-        "ms-vscode-remote.vscode-remote-extensionpack"
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "usernamehw.errorlens"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"
