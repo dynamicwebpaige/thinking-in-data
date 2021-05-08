@@ -40,7 +40,8 @@
         "MS-vsliveshare.vsliveshare-pack",
         "hediet.debug-visualizer",
         "foam.foam-vscode",
-        "RandomFractalsInc.vscode-data-preview"
+        "RandomFractalsInc.vscode-data-preview",
+        "ms-vscode-remote.vscode-remote-extensionpack"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"
