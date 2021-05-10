@@ -7,7 +7,7 @@
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dynamicwebpaige/thinking-in-data"      
+        "url": "https://github.com/dynamicwebpaige/thinking-in-data"
     },
     "engines": {
         "vscode": "^1.51.0"
